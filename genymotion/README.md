@@ -18,7 +18,9 @@ You can visit official site https://www.genymotion.com/#!/developers/user-guide
 
 ### Tricks
 
-Alternatively, the above files can be packed together into a single archive file, typically with an .ova extension. Sure this ova have included with gapps and some apps, it's make simple way for you to work with genymotion.
+Alternatively, the above files can be packed together into a single archive file, typically with an .ova extension. Sure this ova have included with gapps and some apps, i mean you will get virtual device android 4.2.2 with playstore included :heart_eyes: yiihaaa... it's make simple way for you to work with genymotion.
+
+![creatorb](https://raw.githubusercontent.com/CreatorB/Virtual/master/img/ss/playstore_creatorb.png)
 
 Download ova : https://drive.google.com/file/d/0B4LW9kx149UwRkpwbkFQck93bzQ/view?usp=sharing
 
