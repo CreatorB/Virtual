@@ -20,7 +20,7 @@ You can visit official site https://www.genymotion.com/#!/developers/user-guide
 
 Alternatively, the above files can be packed together into a single archive file, typically with an .ova extension. Sure this ova have included with gapps and some apps, it's make simple way for you to work with genymotion.
 
-Download ova : waiting uploading
+Download ova : https://drive.google.com/file/d/0B4LW9kx149UwRkpwbkFQck93bzQ/view?usp=sharing
 
 + Right click ova file and then open with oracle VM virtualbox (That's mean you must already installed virtualbox and genymotion)
 
