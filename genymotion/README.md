@@ -18,6 +18,24 @@ You can visit official site https://www.genymotion.com/#!/developers/user-guide
 
 ### Tricks
 
-Alternatively, the above files can be packed together into a single archive file, typically with an .ova extension. Sure this ova have bundle with gapps and some apps, it's make simple way for you to install.
+Alternatively, the above files can be packed together into a single archive file, typically with an .ova extension. Sure this ova have included with gapps and some apps, it's make simple way for you to work with genymotion.
 
-Download ova : 
+Download ova : waiting uploading
+
++ Right click ova file and then open with oracle VM virtualbox (That's mean you must already installed virtualbox and genymotion)
+
+![creatorb](https://raw.githubusercontent.com/CreatorB/Virtual/master/img/ss/genymotion-1.png)
+
++ Wait a moment, the ova file will import to your virtualbox and when it finished, it will be available on your list virtualbox manager
+
+![creatorb](https://raw.githubusercontent.com/CreatorB/Virtual/master/img/ss/genymotion_2.png)
+
++ Now open your genymotion
+
+![creatorb](https://raw.githubusercontent.com/CreatorB/Virtual/master/img/ss/genymotion_3.png)
+
++ and taraaa... You can see new virtual device on your genymotion
+
+![creatorb](https://raw.githubusercontent.com/CreatorB/Virtual/master/img/ss/genymotion_5.png)
+
+Let start and happy virtualing ,,,
