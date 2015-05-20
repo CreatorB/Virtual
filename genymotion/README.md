@@ -41,7 +41,3 @@ Download ova : https://drive.google.com/file/d/0B4LW9kx149UwRkpwbkFQck93bzQ/view
 ![creatorb](https://raw.githubusercontent.com/CreatorB/Virtual/master/img/ss/genymotion_5.png)
 
 Let start and happy virtualizing ,,,
-
-### Problems
-
-* Open with virtualbox but don't load ova to list virtual manager [try to update latest virtualbox]
